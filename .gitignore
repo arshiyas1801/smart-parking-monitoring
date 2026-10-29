@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+
+# Keep the large PKLot archive and extracted dataset out of GitHub.
+dataset/archive.zip
+dataset/PKLot/

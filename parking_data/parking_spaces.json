@@ -1,0 +1,1358 @@
+{
+  "sample_lot_1": {
+    "image_name": "parking_lot_1.jpg",
+    "width": 1280,
+    "height": 720,
+    "spaces": [
+      {
+        "id": 1,
+        "x": 65,
+        "y": 140,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 2,
+        "x": 185,
+        "y": 140,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 3,
+        "x": 305,
+        "y": 140,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 4,
+        "x": 425,
+        "y": 140,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 5,
+        "x": 545,
+        "y": 140,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 6,
+        "x": 665,
+        "y": 140,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 7,
+        "x": 785,
+        "y": 140,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 8,
+        "x": 905,
+        "y": 140,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 9,
+        "x": 1025,
+        "y": 140,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 10,
+        "x": 1145,
+        "y": 140,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 11,
+        "x": 65,
+        "y": 420,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 12,
+        "x": 185,
+        "y": 420,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 13,
+        "x": 305,
+        "y": 420,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 14,
+        "x": 425,
+        "y": 420,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 15,
+        "x": 545,
+        "y": 420,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 16,
+        "x": 665,
+        "y": 420,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 17,
+        "x": 785,
+        "y": 420,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 18,
+        "x": 905,
+        "y": 420,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 19,
+        "x": 1025,
+        "y": 420,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 20,
+        "x": 1145,
+        "y": 420,
+        "w": 95,
+        "h": 190,
+        "occupied_ground_truth": false
+      }
+    ]
+  },
+  "sample_lot_2": {
+    "image_name": "parking_lot_2.jpg",
+    "width": 1280,
+    "height": 720,
+    "spaces": [
+      {
+        "id": 1,
+        "x": 100,
+        "y": 150,
+        "w": 100,
+        "h": 200,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 2,
+        "x": 230,
+        "y": 150,
+        "w": 100,
+        "h": 200,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 3,
+        "x": 360,
+        "y": 150,
+        "w": 100,
+        "h": 200,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 4,
+        "x": 490,
+        "y": 150,
+        "w": 100,
+        "h": 200,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 5,
+        "x": 620,
+        "y": 150,
+        "w": 100,
+        "h": 200,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 6,
+        "x": 750,
+        "y": 150,
+        "w": 100,
+        "h": 200,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 7,
+        "x": 880,
+        "y": 150,
+        "w": 100,
+        "h": 200,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 8,
+        "x": 1010,
+        "y": 150,
+        "w": 100,
+        "h": 200,
+        "occupied_ground_truth": true
+      }
+    ]
+  },
+  "real_parking_lot_1": {
+    "image_name": "real_parking_lot_1.jpg",
+    "width": 1100,
+    "height": 720,
+    "spaces": [
+      {
+        "id": 1,
+        "x": 42,
+        "y": 90,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 2,
+        "x": 43,
+        "y": 141,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 3,
+        "x": 156,
+        "y": 91,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 4,
+        "x": 155,
+        "y": 135,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 5,
+        "x": 43,
+        "y": 190,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 6,
+        "x": 161,
+        "y": 191,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 7,
+        "x": 43,
+        "y": 239,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 8,
+        "x": 44,
+        "y": 285,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 9,
+        "x": 162,
+        "y": 241,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 10,
+        "x": 160,
+        "y": 289,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 11,
+        "x": 44,
+        "y": 333,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 12,
+        "x": 164,
+        "y": 336,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 13,
+        "x": 160,
+        "y": 383,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 14,
+        "x": 47,
+        "y": 382,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 15,
+        "x": 46,
+        "y": 430,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 16,
+        "x": 160,
+        "y": 431,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 17,
+        "x": 48,
+        "y": 478,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 18,
+        "x": 48,
+        "y": 528,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 19,
+        "x": 48,
+        "y": 579,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 20,
+        "x": 48,
+        "y": 629,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 21,
+        "x": 166,
+        "y": 621,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 22,
+        "x": 164,
+        "y": 573,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 23,
+        "x": 161,
+        "y": 526,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 24,
+        "x": 161,
+        "y": 480,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 25,
+        "x": 397,
+        "y": 89,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 26,
+        "x": 508,
+        "y": 89,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 27,
+        "x": 750,
+        "y": 80,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 28,
+        "x": 909,
+        "y": 137,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 29,
+        "x": 750,
+        "y": 129,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 30,
+        "x": 749,
+        "y": 183,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 31,
+        "x": 749,
+        "y": 230,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 32,
+        "x": 749,
+        "y": 277,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 33,
+        "x": 751,
+        "y": 328,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 34,
+        "x": 749,
+        "y": 375,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 35,
+        "x": 750,
+        "y": 426,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 36,
+        "x": 754,
+        "y": 472,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 37,
+        "x": 754,
+        "y": 519,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 38,
+        "x": 756,
+        "y": 566,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 39,
+        "x": 760,
+        "y": 611,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 40,
+        "x": 907,
+        "y": 183,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 41,
+        "x": 907,
+        "y": 230,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 42,
+        "x": 909,
+        "y": 280,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 43,
+        "x": 909,
+        "y": 324,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 44,
+        "x": 906,
+        "y": 373,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 45,
+        "x": 908,
+        "y": 419,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 46,
+        "x": 908,
+        "y": 468,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 47,
+        "x": 911,
+        "y": 516,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 48,
+        "x": 912,
+        "y": 566,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 49,
+        "x": 910,
+        "y": 615,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 50,
+        "x": 513,
+        "y": 617,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 51,
+        "x": 404,
+        "y": 614,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 52,
+        "x": 400,
+        "y": 570,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 53,
+        "x": 511,
+        "y": 567,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 54,
+        "x": 401,
+        "y": 524,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 55,
+        "x": 519,
+        "y": 523,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 56,
+        "x": 400,
+        "y": 426,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 57,
+        "x": 399,
+        "y": 380,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 58,
+        "x": 512,
+        "y": 378,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 59,
+        "x": 510,
+        "y": 424,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 60,
+        "x": 513,
+        "y": 330,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 61,
+        "x": 512,
+        "y": 282,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 62,
+        "x": 511,
+        "y": 234,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 63,
+        "x": 509,
+        "y": 190,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 64,
+        "x": 513,
+        "y": 142,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 65,
+        "x": 395,
+        "y": 139,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 66,
+        "x": 396,
+        "y": 187,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 67,
+        "x": 399,
+        "y": 238,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 68,
+        "x": 399,
+        "y": 284,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 69,
+        "x": 400,
+        "y": 332,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      }
+    ]
+  },
+  "real_parking_lot_2": {
+    "image_name": "real_parking_lot_2.jpg",
+    "width": 1100,
+    "height": 720,
+    "spaces": [
+      {
+        "id": 1,
+        "x": 42,
+        "y": 90,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 2,
+        "x": 43,
+        "y": 141,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 3,
+        "x": 156,
+        "y": 91,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 4,
+        "x": 155,
+        "y": 135,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 5,
+        "x": 43,
+        "y": 190,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 6,
+        "x": 161,
+        "y": 191,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 7,
+        "x": 43,
+        "y": 239,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 8,
+        "x": 44,
+        "y": 285,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 9,
+        "x": 162,
+        "y": 241,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 10,
+        "x": 160,
+        "y": 289,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 11,
+        "x": 44,
+        "y": 333,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 12,
+        "x": 164,
+        "y": 336,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 13,
+        "x": 160,
+        "y": 383,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 14,
+        "x": 47,
+        "y": 382,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 15,
+        "x": 46,
+        "y": 430,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 16,
+        "x": 160,
+        "y": 431,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 17,
+        "x": 48,
+        "y": 478,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 18,
+        "x": 48,
+        "y": 528,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 19,
+        "x": 48,
+        "y": 579,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 20,
+        "x": 48,
+        "y": 629,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 21,
+        "x": 166,
+        "y": 621,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 22,
+        "x": 164,
+        "y": 573,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 23,
+        "x": 161,
+        "y": 526,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 24,
+        "x": 161,
+        "y": 480,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 25,
+        "x": 397,
+        "y": 89,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 26,
+        "x": 508,
+        "y": 89,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 27,
+        "x": 750,
+        "y": 80,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 28,
+        "x": 909,
+        "y": 137,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 29,
+        "x": 750,
+        "y": 129,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 30,
+        "x": 749,
+        "y": 183,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 31,
+        "x": 749,
+        "y": 230,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 32,
+        "x": 749,
+        "y": 277,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 33,
+        "x": 751,
+        "y": 328,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 34,
+        "x": 749,
+        "y": 375,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 35,
+        "x": 750,
+        "y": 426,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 36,
+        "x": 754,
+        "y": 472,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 37,
+        "x": 754,
+        "y": 519,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 38,
+        "x": 756,
+        "y": 566,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 39,
+        "x": 760,
+        "y": 611,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 40,
+        "x": 907,
+        "y": 183,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 41,
+        "x": 907,
+        "y": 230,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 42,
+        "x": 909,
+        "y": 280,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 43,
+        "x": 909,
+        "y": 324,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 44,
+        "x": 906,
+        "y": 373,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 45,
+        "x": 908,
+        "y": 419,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 46,
+        "x": 908,
+        "y": 468,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 47,
+        "x": 911,
+        "y": 516,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 48,
+        "x": 912,
+        "y": 566,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 49,
+        "x": 910,
+        "y": 615,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 50,
+        "x": 513,
+        "y": 617,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 51,
+        "x": 404,
+        "y": 614,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 52,
+        "x": 400,
+        "y": 570,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 53,
+        "x": 511,
+        "y": 567,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 54,
+        "x": 401,
+        "y": 524,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 55,
+        "x": 519,
+        "y": 523,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 56,
+        "x": 400,
+        "y": 426,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 57,
+        "x": 399,
+        "y": 380,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 58,
+        "x": 512,
+        "y": 378,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 59,
+        "x": 510,
+        "y": 424,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 60,
+        "x": 513,
+        "y": 330,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 61,
+        "x": 512,
+        "y": 282,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 62,
+        "x": 511,
+        "y": 234,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 63,
+        "x": 509,
+        "y": 190,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 64,
+        "x": 513,
+        "y": 142,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 65,
+        "x": 395,
+        "y": 139,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 66,
+        "x": 396,
+        "y": 187,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": false
+      },
+      {
+        "id": 67,
+        "x": 399,
+        "y": 238,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 68,
+        "x": 399,
+        "y": 284,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      },
+      {
+        "id": 69,
+        "x": 400,
+        "y": 332,
+        "w": 107,
+        "h": 48,
+        "occupied_ground_truth": true
+      }
+    ]
+  }
+}
